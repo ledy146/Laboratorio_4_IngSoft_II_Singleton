@@ -7,8 +7,8 @@ package com.mycompany.laboratorio4singleton;
 import data.DBConnection;
 
 /**
- *
- * @author ledya
+ * @author Ledy Astudillo
+ * @author Santiago Nieto
  */
 public class Laboratorio4Singleton {
     public static void main(String[] args) {
